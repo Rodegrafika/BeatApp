@@ -1,5 +1,7 @@
 # BeatApp
-Web application with "paper.js" and "howl" to have some fun pressing keys on your keyboard.
+Web application with "paper.js" and "howl". 
+It let you play a sound and run a little animation everytime you press a key o your keyboard (it works for letters key)
+
 I realize it as a part of a "web developer boot camp", practicing the use of external library in JavaScript.
 
 Future Goals
